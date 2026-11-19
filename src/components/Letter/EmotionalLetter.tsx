@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import confetti from 'canvas-confetti';
 import { sound } from '@/utils/soundEngine';
-import { getMemoryImage } from '@/utils/assets';
+import { getMemoryImage, handleImageFallback } from '@/utils/assets';
 import { Heart, Sparkles, Smile, ArrowRight } from 'lucide-react';
 
 export const EmotionalLetter: React.FC = () => {
@@ -59,6 +59,8 @@ export const EmotionalLetter: React.FC = () => {
             <img
               src={getMemoryImage('aarna_school_call_raw.png')}
               alt="Aarna Online Class Raw Screenshot"
+              loading="eager"
+              onError={(e) => handleImageFallback(e, 'aarna_school_call_raw.png')}
               className="w-full h-full object-cover"
             />
           </div>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { sound } from '@/utils/soundEngine';
-import { getMemoryImage } from '@/utils/assets';
+import { getMemoryImage, handleImageFallback } from '@/utils/assets';
 import { Heart, Sparkles, X, Maximize2 } from 'lucide-react';
 
 interface ScrapbookPhoto {
@@ -194,8 +194,9 @@ export const ScrapbookWall: React.FC = () => {
                 <img
                   src={imageUrl}
                   alt={item.title}
+                  loading="eager"
+                  onError={(e) => handleImageFallback(e, item.filename)}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                  loading="lazy"
                 />
                 <div className="absolute top-2.5 right-2.5 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-full text-[10px] font-bold text-pink-600 shadow-sm">
                   {item.tag}
@@ -247,6 +248,7 @@ export const ScrapbookWall: React.FC = () => {
                 <img
                   src={getMemoryImage(selectedPhoto.filename)}
                   alt={selectedPhoto.title}
+                  onError={(e) => handleImageFallback(e, selectedPhoto.filename)}
                   className="w-full h-auto max-h-[55vh] object-contain"
                 />
               </div>

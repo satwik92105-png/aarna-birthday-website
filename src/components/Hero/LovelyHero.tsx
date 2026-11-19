@@ -1,7 +1,7 @@
 import React from 'react';
 import confetti from 'canvas-confetti';
 import { sound } from '@/utils/soundEngine';
-import { getMemoryImage } from '@/utils/assets';
+import { getMemoryImage, handleImageFallback } from '@/utils/assets';
 import { Heart, Sparkles, Cake, ArrowDown } from 'lucide-react';
 
 interface LovelyHeroProps {
@@ -70,6 +70,8 @@ export const LovelyHero: React.FC<LovelyHeroProps> = ({ onExplore }) => {
               <img
                 src={getMemoryImage('aarna_yellow_flower.jpg')}
                 alt="Aarna's Beautiful Smile"
+                loading="eager"
+                onError={(e) => handleImageFallback(e, 'aarna_yellow_flower.jpg')}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
             </div>

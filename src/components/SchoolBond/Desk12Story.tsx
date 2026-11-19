@@ -1,5 +1,5 @@
 import React from 'react';
-import { getMemoryImage } from '@/utils/assets';
+import { getMemoryImage, handleImageFallback } from '@/utils/assets';
 import { Sparkles, Heart, Coffee, BookOpen, Clock, Laugh } from 'lucide-react';
 
 const SISTERHOOD_PILLARS = [
@@ -120,6 +120,8 @@ export const Desk12Story: React.FC = () => {
                 <img
                   src={getMemoryImage('aarna_school_call_raw.png')}
                   alt="Aarna Online Class Raw Screenshot"
+                  loading="eager"
+                  onError={(e) => handleImageFallback(e, 'aarna_school_call_raw.png')}
                   className="w-full h-full object-cover"
                 />
               </div>
