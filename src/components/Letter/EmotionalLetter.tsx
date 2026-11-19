@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import confetti from 'canvas-confetti';
 import { sound } from '@/utils/soundEngine';
+import { getMemoryImage } from '@/utils/assets';
 import { Heart, Sparkles, Smile, ArrowRight } from 'lucide-react';
 
 export const EmotionalLetter: React.FC = () => {
@@ -56,7 +57,7 @@ export const EmotionalLetter: React.FC = () => {
         <div className="mb-8 sm:float-right sm:ml-8 sm:mb-6 w-full sm:w-60 p-3 bg-white border border-pink-200 rounded-2xl shadow-xl rotate-2 hover:rotate-0 transition-transform">
           <div className="w-full aspect-[9/16] bg-black rounded-xl overflow-hidden">
             <img
-              src="./images/memories/aarna_school_call_raw.png"
+              src={getMemoryImage('aarna_school_call_raw.png')}
               alt="Aarna Online Class Raw Screenshot"
               className="w-full h-full object-cover"
             />

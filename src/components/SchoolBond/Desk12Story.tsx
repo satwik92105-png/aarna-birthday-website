@@ -1,4 +1,5 @@
 import React from 'react';
+import { getMemoryImage } from '@/utils/assets';
 import { Sparkles, Heart, Coffee, BookOpen, Clock, Laugh } from 'lucide-react';
 
 const SISTERHOOD_PILLARS = [
@@ -117,7 +118,7 @@ export const Desk12Story: React.FC = () => {
             <div className="bg-white p-2.5 pb-8 rounded-xl shadow-2xl rotate-3 hover:rotate-0 transition-transform w-48">
               <div className="aspect-[9/16] rounded bg-black overflow-hidden">
                 <img
-                  src="./images/memories/aarna_school_call_raw.png"
+                  src={getMemoryImage('aarna_school_call_raw.png')}
                   alt="Aarna Online Class Raw Screenshot"
                   className="w-full h-full object-cover"
                 />

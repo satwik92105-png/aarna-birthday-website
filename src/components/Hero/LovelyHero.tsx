@@ -1,6 +1,7 @@
 import React from 'react';
 import confetti from 'canvas-confetti';
 import { sound } from '@/utils/soundEngine';
+import { getMemoryImage } from '@/utils/assets';
 import { Heart, Sparkles, Cake, ArrowDown } from 'lucide-react';
 
 interface LovelyHeroProps {
@@ -67,7 +68,7 @@ export const LovelyHero: React.FC<LovelyHeroProps> = ({ onExplore }) => {
             <div className="polaroid-tape" />
             <div className="aspect-[4/5] rounded-lg overflow-hidden bg-pink-50">
               <img
-                src="./images/memories/aarna_yellow_flower.jpg"
+                src={getMemoryImage('aarna_yellow_flower.jpg')}
                 alt="Aarna's Beautiful Smile"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
