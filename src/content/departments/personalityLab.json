@@ -1,0 +1,86 @@
+{
+  "scannerMetrics": [
+    { "label": "Normal Behaviour", "value": "Not Detected", "score": 0, "status": "critical" },
+    { "label": "Chaos Generation", "value": "99.8%", "score": 99.8, "status": "exceptional" },
+    { "label": "Drama Potential", "value": "Off The Charts", "score": 98.4, "status": "abnormal" },
+    { "label": "Logical Explanations", "value": "Frequently Unavailable", "score": 4.2, "status": "nominal" },
+    { "label": "Sisterly Loyalty", "value": "100.0% (Pure Gold)", "score": 100, "status": "permanent" },
+    { "label": "Overall Classification", "value": "PGli Gawar Supreme", "score": 100, "status": "verified" }
+  ],
+  "reports": [
+    {
+      "id": "REP-01",
+      "title": "Why Normal People Cannot Understand Aarna",
+      "author": "Dr. V. K. Sharma, Lead Behavioral Analyst",
+      "date": "Cycle 5546.04",
+      "classification": "CONFIDENTIAL // EYES ONLY",
+      "summary": "Standard psychological models assume human choices follow rational self-interest. Subject Aarna completely disproves this thesis.",
+      "content": [
+        "Across 800+ observed classroom hours, Subject Aarna exhibited behaviors defying conventional human logic. Example: Spending 20 minutes meticulously coloring a notebook title, then proceeding to sleep through the actual chapter.",
+        "When confronted about homework, Subject deployed an advanced psychological deflection known as 'The Innocent Puppy Glance', which reduced teacher reprimand probability by 78%.",
+        "Conclusion: Do not attempt to analyze using standard human psychology. Subject functions on an autonomous frequency powered by pure theatrical energy."
+      ]
+    },
+    {
+      "id": "REP-02",
+      "title": "Investigation Into Unnecessary Chaos",
+      "author": "Department of Thermodynamic Disturbances",
+      "date": "Cycle 5546.12",
+      "classification": "RESTRICTED",
+      "summary": "Documenting spontaneous entropy spikes occurring in any room within 30 seconds of Subject's arrival.",
+      "content": [
+        "In controlled corridor trials, peaceful silence was maintained for approximately 4 minutes. Upon Subject's entrance, immediate audible giggles, falling stationary, and heated debates regarding fictional drama ensued.",
+        "Researchers attempted to quantify the origin of the chaos. In 94% of cases, the trigger was a completely random statement uttered with zero prior context.",
+        "Field Directive: Do not extinguish the chaos. The chaos is a vital atmospheric nutrient."
+      ]
+    },
+    {
+      "id": "REP-03",
+      "title": "The Mysterious Case of Random Behaviour",
+      "author": "Committee for Unexplained Phenomena",
+      "date": "Cycle 5546.21",
+      "classification": "UNCLASSIFIED RELIC",
+      "summary": "Documenting sudden decisions to change moods, alter plans, or pretend to be deeply offended over a single stolen chip.",
+      "content": [
+        "Case 12-B: Subject willingly surrendered her own lunch, yet declared an international crisis when one fry was claimed from her plate.",
+        "Subject exhibits sudden bursts of profound wisdom immediately preceded by declaring herself 'pgli gawar'.",
+        "Staff consensus: The juxtaposition of goofy chaos and deep emotional sincerity is her signature superpower."
+      ]
+    },
+    {
+      "id": "REP-04",
+      "title": "Why Researchers Have Stopped Asking Questions",
+      "author": "Council of Exhausted Observers",
+      "date": "Cycle 5546.99",
+      "classification": "PERMANENT ARCHIVE",
+      "summary": "Formal resolution to cease all attempts at domesticating or classifying Subject Aarna.",
+      "content": [
+        "After exhaustive review of all collected data—including video lecture drawings, corridor strolls, and stolen snack incidents—the council has concluded that classification is impossible.",
+        "Subject is simply herself. Funny, chaotic, radiant, and fiercely loyal.",
+        "Final Recommendation: Accept her with wholehearted love, provide snacks regularly, and never let anyone dim her light."
+      ]
+    }
+  ],
+  "researcherNotes": [
+    {
+      "day": "Day 04",
+      "note": "We attempted to establish a calm, disciplined observation protocol. Subject told a joke. The entire research team began laughing. Protocol abandoned.",
+      "author": "Lab Tech #03"
+    },
+    {
+      "day": "Day 17",
+      "note": "Subject was caught on video lecture with forehead doodles and cheek scribbles. When asked to wipe them off, she smiled and posed. Heroic behavior.",
+      "author": "Archivist Maya"
+    },
+    {
+      "day": "Day 29",
+      "note": "Subject stole the lab director's sandwich. When confronted, she offered half of an old biscuit in trade. Legally speaking, a terrible deal. Emotionally, accepted.",
+      "author": "Senior Fellow Arjun"
+    },
+    {
+      "day": "Day 42",
+      "note": "Final conclusion after months of tracking: She's not just a subject. She's the heart of this entire institution.",
+      "author": "The Chief Investigator"
+    }
+  ]
+}

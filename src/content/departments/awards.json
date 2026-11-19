@@ -1,0 +1,52 @@
+[
+  {
+    "id": "AWD-01",
+    "name": "The Golden Chaos Award",
+    "tier": "Grand Laureate • Uncontested",
+    "badge": "⚡",
+    "color": "#E5A93C",
+    "citation": "Presented to Aarna for exceptional and relentless contributions to unnecessary classroom chaos, spontaneous giggles, and dismantling teacher seriousness.",
+    "juryRemarks": "Awarded by unanimous vote of the Committee for Desk Disorder. No other human was considered.",
+    "certificateCode": "CHAOS-5546-OMEGA"
+  },
+  {
+    "id": "AWD-02",
+    "name": "International Award for Random Behaviour",
+    "tier": "Global Fellowship of Nautanki",
+    "badge": "🌀",
+    "color": "#D4AF37",
+    "citation": "For the unprecedented ability to transition from philosophical silence to extreme theatrical drama in under 1.4 seconds.",
+    "juryRemarks": "Subject's behavioral predictability remains at 0.00%, setting an all-time institutional world record.",
+    "certificateCode": "RANDOM-9921-ALPHA"
+  },
+  {
+    "id": "AWD-03",
+    "name": "Lifetime Achievement in Pretending to Be Innocent",
+    "tier": "The Golden Halo of Deception",
+    "badge": "😇",
+    "color": "#F3C978",
+    "citation": "For perfecting the 'Who, me? I'm just an innocent angel!' wide-eyed facial expression immediately after executing mischievous chaos.",
+    "juryRemarks": "The jury was completely fooled until visual evidence (video call doodles) surfaced.",
+    "certificateCode": "INNOCENT-0007-BETA"
+  },
+  {
+    "id": "AWD-04",
+    "name": "Excellence in Confusing Researchers",
+    "tier": "Master of Perplexity",
+    "badge": "❓",
+    "color": "#A98B68",
+    "citation": "Conferred upon Aarna for defeating 14 consecutive diagnostic algorithms designed to predict normal human responses.",
+    "juryRemarks": "Algorithms gave up and recommended simply bringing her dessert instead.",
+    "certificateCode": "PUZZLE-8840-GAMMA"
+  },
+  {
+    "id": "AWD-05",
+    "name": "The PGli Gawar Special Recognition Award",
+    "tier": "Highest Institutional Honor",
+    "badge": "👑",
+    "color": "#B99A65",
+    "citation": "For wearing the title of 'PGli Gawar' with unmatched grace, reminding everyone that authentic foolishness with a pure heart beats fake sophistication every single time.",
+    "juryRemarks": "Presented with eternal sisterly love, endless respect, and an unbreakable bond.",
+    "certificateCode": "PGLI-GAWAR-SUPREME"
+  }
+]

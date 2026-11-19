@@ -1,0 +1,53 @@
+{
+  "institutionName": "THE UNCOMMON INSTITUTE",
+  "division": "Department of Human Anomalies & Incalculable Bonds",
+  "motto": "Investigating humans who cannot be measured by ordinary metrics.",
+  "founded": "Anno Infinite",
+  "departments": [
+    {
+      "id": "personality-lab",
+      "number": "01",
+      "name": "Personality Laboratory",
+      "tagline": "Quantifying the Unquantifiable",
+      "description": "Advanced diagnostic stations analyzing chaos indices, drama velocity, and unprovoked giggles.",
+      "accentColor": "#B99A65",
+      "icon": "Activity"
+    },
+    {
+      "id": "memory-archive",
+      "number": "02",
+      "name": "Archive of Ordinary Miracles",
+      "tagline": "The Photometric Repository",
+      "description": "Suspended photographic exhibits preserving moments between 8:00 AM and 2:00 PM and beyond.",
+      "accentColor": "#D4AF37",
+      "icon": "Image"
+    },
+    {
+      "id": "human-impact",
+      "number": "03",
+      "name": "Department of Human Impact",
+      "tagline": "The Gravitational Footprint",
+      "description": "A tranquil contemplation sanctuary examining how one soul silently anchored another's school years.",
+      "accentColor": "#A98B68",
+      "icon": "Heart"
+    },
+    {
+      "id": "achievement-museum",
+      "number": "04",
+      "name": "Museum of Unnecessary Achievements",
+      "tagline": "The Hall of Absurd Honors",
+      "description": "Prestigious, ridiculous gold trophies awarded for exceptional contributions to classroom disorder.",
+      "accentColor": "#E5A93C",
+      "icon": "Award"
+    },
+    {
+      "id": "observatory",
+      "number": "05",
+      "name": "Future Observation Centre",
+      "tagline": "The Unwritten Horizons",
+      "description": "A celestial observatory peering into unmapped years, cosmic blessings, and lifelong brotherly backup.",
+      "accentColor": "#6E90B0",
+      "icon": "Compass"
+    }
+  ]
+}

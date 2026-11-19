@@ -1,0 +1,45 @@
+{
+  "title": "Future Observation Centre",
+  "subtitle": "Observing Unwritten Horizons & Uncharted Years",
+  "exhibits": {
+    "futureLetter": {
+      "title": "Transmission From Future Aarna",
+      "origin": "Earth Orbit • Decade Ahead",
+      "salutation": "Hey younger me,",
+      "body": [
+        "Take a breath. You spent so many days worrying if everything would work out, if exams would define you, or if you'd figure out where you belong.",
+        "I'm writing back to tell you: you made it. You built an incredible life on your own terms. You still laugh too loudly, you still refuse to act like a boring grown-up, and you're surrounded by genuine people who love your chaotic magic.",
+        "And yes, that school friend who was like your brother? He's still cheering for you from the sidelines, just like he promised."
+      ],
+      "signoff": "With endless love from the person you're becoming,"
+    },
+    "futureBirthdayArchive": {
+      "title": "Sealed Birthday Archive // Year 2030+",
+      "status": "Encrypted • Unlocking With Every Passing Year",
+      "teaser": "A digital time capsule containing future birthday messages and lifelong sibling wishes.",
+      "unlockedMessage": "No matter how many candles are on the cake, you will always be the girl with forehead dots and a smile that lit up the whole back row. Happy birthday in every timeline."
+    },
+    "unwrittenChapters": [
+      {
+        "id": "UNW-01",
+        "title": "The First Solo Empire",
+        "description": "Stepping into rooms where you command the stage, building careers or creative projects that leave people in awe."
+      },
+      {
+        "id": "UNW-02",
+        "title": "The Infinite Passport",
+        "description": "Standing on shores you haven't seen yet, tasting new street food, and laughing under unfamiliar stars."
+      },
+      {
+        "id": "UNW-03",
+        "title": "The Unshakable Peace",
+        "description": "Waking up on a quiet morning knowing you are exactly where you are supposed to be, deeply loved and safe."
+      },
+      {
+        "id": "UNW-04",
+        "title": "The Lifelong Sisterhood",
+        "description": "Calling your school benchmate 10 years from now just to complain about something completely ridiculous and laugh like it's Desk 12 all over again."
+      }
+    ]
+  }
+}
