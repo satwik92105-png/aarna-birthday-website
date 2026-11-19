@@ -16,7 +16,7 @@ interface ScrapbookPhoto {
 const PHOTOS: ScrapbookPhoto[] = [
   {
     id: 'photo-1',
-    image: '/images/memories/aarna_yellow_dress.jpg',
+    image: './images/memories/aarna_yellow_dress.jpg',
     title: 'The Yellow Dress Diva 💛',
     caption: 'Casually slaying while holding a can ✨',
     story: 'From wearing our messy school uniform every day to this stunning look. I remember seeing this and thinking: wow, my desk partner really is a movie star in disguise!',
@@ -26,7 +26,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-2',
-    image: '/images/memories/aarna_yellow_flower.jpg',
+    image: './images/memories/aarna_yellow_flower.jpg',
     title: 'The Sunflower Smile 🌼',
     caption: 'Flower in hair, pure mischief in eyes',
     story: 'That exact cheeky smile that made surviving boring double-period classes possible. Whenever you smiled like this, you were definitely planning some mischief.',
@@ -36,7 +36,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-3',
-    image: '/images/memories/aarna_golden_peace.jpg',
+    image: './images/memories/aarna_golden_peace.jpg',
     title: 'Golden Hour Serenity 🌅',
     caption: 'Eyes closed against the warm sunlight',
     story: 'Beneath all the loud laughs, dramatic reactions, and funny roasts lives one of the sweetest, kindest souls I have ever known. Truly irreplaceable.',
@@ -46,7 +46,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-4',
-    image: '/images/memories/aarna_beach_walk.jpg',
+    image: './images/memories/aarna_beach_walk.jpg',
     title: 'Walking Towards The Horizon 🌊',
     caption: 'Barefoot on sands, chasing tides',
     story: 'School walls were only the beginning for you. Your world, your dreams, and your future are as vast as the open ocean. Keep shining, choti!',
@@ -56,7 +56,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-5',
-    image: '/images/memories/aarna_traditional_saree.jpg',
+    image: './images/memories/aarna_traditional_saree.jpg',
     title: 'The Royal Desi Princess 👑',
     caption: 'Grace, orange elegance & glowing bangles',
     story: 'Who gave you permission to look this breathtaking?! One second you are teasing me in school, next second you look like royalty from a historical drama.',
@@ -66,7 +66,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-6',
-    image: '/images/memories/aarna_car_selfie.jpg',
+    image: './images/memories/aarna_car_selfie.jpg',
     title: 'The 1000-Watt Laugh 🚗',
     caption: 'Warm car selfie with contagious joy',
     story: 'The most infectious laughter ever recorded. Seriously, anyone having a bad day just needs to hear you laugh for five seconds and their mood is completely fixed.',
@@ -76,7 +76,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-7',
-    image: '/images/memories/aarna_ditch_plans.jpg',
+    image: './images/memories/aarna_ditch_plans.jpg',
     title: 'The "Ditch Plans" Queen 😴',
     caption: 'Our official life anthem on a shirt',
     story: 'Mirror selfie proudly declaring "Ditch plans". Nothing describes our shared desire to cancel social obligations, stay under blankets, and eat snacks better than this.',
@@ -86,7 +86,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-8',
-    image: '/images/memories/aarna_mountain_clouds.jpg',
+    image: './images/memories/aarna_mountain_clouds.jpg',
     title: 'Above The Misty Peaks ☁️',
     caption: 'Looking out over clouds and green valleys',
     story: 'No matter what mountains life puts in front of you, remember you were born to rise above them. And remember your brother is always cheering right behind you.',
@@ -96,7 +96,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-9',
-    image: '/images/memories/aarna_beach_waves.jpg',
+    image: './images/memories/aarna_beach_waves.jpg',
     title: 'Where The Tides Meet 🏖️',
     caption: 'Hands in hair, ocean foam on feet',
     story: 'Wild, free, and happy in your element. Never lose that untamed spark that makes you so uniquely Aarna.',
@@ -106,7 +106,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-10',
-    image: '/images/memories/aarna_glasses_mirror.jpg',
+    image: './images/memories/aarna_glasses_mirror.jpg',
     title: 'Pretending To Be Studious 🤓',
     caption: 'Glasses on, serious face activated',
     story: 'Wearing glasses to pretend we weren\'t just gossiping two seconds before the teacher turned around to face the class. Tactical deception at its finest.',
@@ -116,7 +116,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-11',
-    image: '/images/memories/aarna_neon_portrait.jpg',
+    image: './images/memories/aarna_neon_portrait.jpg',
     title: 'The Violet Aesthetic 💜',
     caption: 'Moody purple neon lighting',
     story: 'Looking like a cool protagonist from an indie film. Effortlessly cool and magnetic.',
@@ -126,7 +126,7 @@ const PHOTOS: ScrapbookPhoto[] = [
   },
   {
     id: 'photo-12',
-    image: '/images/memories/aarna_friends_watercolor.jpg',
+    image: './images/memories/aarna_friends_watercolor.jpg',
     title: 'Where It All Began 🎨',
     caption: 'The sacred lunchtime tiffin break',
     story: 'Over stolen snacks, classroom desk benches, and sharing our honest thoughts. That 8 AM to 2 PM window created a bond stronger than most friendships of 10 years.',
